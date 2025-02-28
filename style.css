@@ -1,0 +1,42 @@
+h1{
+    color: black;
+    background-color: white;
+    font-size: 48px;
+    text-align: center;
+  }
+  
+  img{
+    text-align: center;
+    width: 700px;
+  }
+  
+  h3{
+    font-size: 25px;
+  }
+  p1{
+    font-size: 25px;
+  }
+  ul1{
+    font-size: 19px;
+  }
+  p2{
+    font-size: 10px;
+  }
+  h2{
+    border: px solid;
+    text-align: center;
+    background-color: yellow;
+  }
+  ul{
+    font-size: 18px;
+  }
+  .container {
+    text-align: center;
+  }
+  ul2{
+    font-size: 18px;
+    
+  }
+  p3{
+    font-size: 20px;
+  }
